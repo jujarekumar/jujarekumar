@@ -1,1 +1,22 @@
-h1 {color:green;}
+body{
+    background-color:#f4f4f4;
+    color:#555555;
+ 
+    font-family:Aerial, Helvetica, sans-serif;
+    font-size:16px;
+    font-weight:normal;
+    line-height: 1.6em;
+    margin: 0;
+ 
+    /* same as above 
+     font : normal 16px Aerial, Helvetica, sans-serif;
+  */
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+ .box1 {
+     background-color:#333333;
+     color:#fff
+ }

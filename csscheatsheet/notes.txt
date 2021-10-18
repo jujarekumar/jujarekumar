@@ -4,3 +4,23 @@
 1) inline css: directlu in the html element ( NOOO)
 2) internal css :using <style> tags within a single document
 3) external css : linking as external .css file
+
+
+colors in css
+-------------
+1) color names
+2)html2 color names
+3)hexadeciimal names
+4) RGB names
+
+body {
+    color:red;
+    background:coral
+}
+
+h1 {
+    color :#00ff00
+}
+p{
+    color:rgb(0,0,255)
+}
