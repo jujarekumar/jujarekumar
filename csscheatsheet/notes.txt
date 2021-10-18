@@ -1,0 +1,6 @@
+3 methods for adding css
+------------------------
+
+1) inline css: directlu in the html element ( NOOO)
+2) internal css :using <style> tags within a single document
+3) external css : linking as external .css file
