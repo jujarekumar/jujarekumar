@@ -18,5 +18,7 @@ body{
 }
  .box1 {
      background-color:#333333;
-     color:#fff
+     color:#fff;
+     border:5px red solid;
+     padding: 10px;
  }
