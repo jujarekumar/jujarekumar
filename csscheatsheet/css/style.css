@@ -22,3 +22,11 @@ body{
      border:5px red solid;
      padding: 10px;
  }
+ .categories{
+    border:3px #ccc solid;
+    padding:10px;
+    border-radius:10px;
+    width:80%;
+    margin:auto;
+    margin-top:25px;
+}
